@@ -1,0 +1,31 @@
+
+/*draggable */
+#draggable { width: 200px; height: 200px; padding: 0.5em; background-color:red; }
+
+/*resizable*/
+#resizable { width: 150px; height: 150px; padding: 0.5em; }
+#resizable h3 { text-align: center; margin: 0; }
+
+/*droppable*/
+#draggable1 { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+#droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }
+
+.demo4{
+	margin-top: 225px;
+}
+
+/*Menu*/
+.ui-menu { 
+    width: 150px; 
+}
+/*  toltip*/
+label {
+    display: block;
+    width: 5em;
+  }
+
+/*  add class*/
+ .toggler { width: 500px; height: 200px; position: relative; }
+  #button {  margin: 0 ;padding: .5em 1em; text-decoration: none; }
+  #effect { width: 240px;  padding: 1em; border: 1px solid #000; background: #eee; color: #333; }
+  .newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 120px; padding: 30px; margin: 10px; font-size: 1.1em;} 
